@@ -30,3 +30,7 @@ std::string Veterinario:: mostrar() const
             "Especialidad:"+especialidad+"\n"+
             "Horario:"+horario+"\n";
 }
+std::string Veterinario::muestra() const
+{
+    return "sangre o+";
+}
