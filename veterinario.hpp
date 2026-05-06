@@ -17,4 +17,5 @@ public:
     std::string getEspecialidad() const;
     std::string getHorario() const;
     std::string mostrar() const;
+    std::string muestra() const;
 };
